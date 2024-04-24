@@ -19,3 +19,4 @@ class LoginForm(FlaskForm):
 class QueryForm(FlaskForm):
     url = StringField('URL', validators=[DataRequired(), URL()])
     query = StringField('Query', validators=[DataRequired()])
+    submit = SubmitField('Submit')
