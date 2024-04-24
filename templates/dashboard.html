@@ -15,9 +15,9 @@
         <a class="navbar-brand" href="#">
           <img class="rounded-pill" style="width:40px;" src="/static/images/searching-magnifying-glass.png" alt="logo">
         </a>
-        <h1>Information Retrieval Evaluation System</h1>
+        <h1 style="font-family: Roboto;">Information Retrieval Evaluation System</h1>
         <div class="text-right">
-              <a href="/register" class="btn btn-primary">Sign Out</a>
+              <a href="/" class="btn btn-primary">Sign Out</a>
         </div>
       </div>
     </nav>
@@ -35,7 +35,7 @@
           border: 1px solid #ccc;
           border-radius: 4px;
           box-sizing: border-box') }}
-          {% for error in form.email.errors %}
+          {% for error in form.url.errors %}
           <p>{{ error }}</p>
           {% endfor %}
         </div>
@@ -49,7 +49,7 @@
           border: 1px solid #ccc;
           border-radius: 4px;
           box-sizing: border-box') }}
-          {% for error in form.password.errors %}
+          {% for error in form.query.errors %}
           <p>{{ error }}</p>
           {% endfor %}
         </div>

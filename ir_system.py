@@ -1,3 +1,9 @@
+from collections import defaultdict
+import re
+import os
+import heapq
+import numpy as np
+
 class IRSystem:
     """A very simple Information Retrieval System, as discussed in Sect. 23.2.
     The constructor s = IRSystem('the a') builds an empty system with two
@@ -65,3 +71,19 @@ class IRSystem:
     def present_results(self, query_text, n=10):
         """Get results for the query and present them."""
         return self.present(self.query(query_text, n))
+
+def words(text, reg=re.compile('[a-z0-9]+')):
+    """Return a list of the words in text, ignoring punctuation and
+    converting everything to lowercase (to canonicalize).
+    >>> words("``EGAD!'' Edgar cried.")
+    ['egad', 'edgar', 'cried']
+    """
+    return reg.findall(text.lower())
+
+class Document:
+    """Metadata for a document: title and url; maybe add others later."""
+
+    def __init__(self, title, url, nwords):
+        self.title = title
+        self.url = url
+        self.nwords = nwords

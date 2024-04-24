@@ -4,6 +4,7 @@ from sqlalchemy.exc import IntegrityError
 from flask_login import UserMixin, current_user, login_user, logout_user, login_required, LoginManager
 from werkzeug.security import generate_password_hash, check_password_hash
 import os
+import subprocess
 import sqlite3
 from datetime import datetime, timedelta
 from forms import RegistrationForm, LoginForm, QueryForm
@@ -82,12 +83,50 @@ def register():
 
     return render_template('register.html', form=form)
 
-@app.route('/dashboard')
+def iterate_files(folder_path):
+    paths = []
+    for item in os.listdir(folder_path):
+        item_path = os.path.join(folder_path, item)
+        if os.path.isfile(item_path):
+            #print("Processing:", item_path)
+            paths.append(item_path)
+        elif os.path.isdir(item_path):
+            return paths + iterate_files(item_path)
+    return paths
+
+@app.route('/dashboard', methods=['GET', 'POST'])
 def dashboard():
     form = QueryForm()
-    out_directory = "/downloads/"
+    query_result = (0,0)
+    if request.method == 'POST' and form.validate_on_submit():
+        query = form.query.data
+        url = form.url.data
+        print(query)
+        out_directory = "/home/dihutswane/Documents/School/Final-Year-Project/downloads"
 
-    return render_template('dashboard.html')
+        """
+        command = f"wget -m -p -E -k -np --directory-prefix={out_directory} {url}"
+        result_of_download = subprocess.run(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+        if result_of_download.returncode == 0:
+            print("Download completed successfully.")
+        else:
+            print("Error downloading file:")
+            print(result_of_download.stderr)
+        """
+
+        paths = iterate_files(out_directory)
+        result = IRSystem()
+        html_paths = [path for path in paths if path.endswith('.html')]
+        print(html_paths)
+        result.index_collection(html_paths)
+    
+        result.query(query)
+        for i in result.present_results(query):
+        	print(i)
+        query_result = (query, result)
+        #return render_template('result2.html', query_result=query_result)
+
+    return render_template('dashboard.html', form=form, query_result=query_result)
 
 #Used to create the table defined in the User class/model
 with app.app_context():
