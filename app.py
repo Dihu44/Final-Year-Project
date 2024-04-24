@@ -95,6 +95,7 @@ def iterate_files(folder_path):
     return paths
 
 @app.route('/dashboard', methods=['GET', 'POST'])
+@login_required
 def dashboard():
     form = QueryForm()
     query_result = (0,0)

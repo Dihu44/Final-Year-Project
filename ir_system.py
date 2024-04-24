@@ -3,6 +3,7 @@ import re
 import os
 import heapq
 import numpy as np
+import math
 
 class IRSystem:
     """A very simple Information Retrieval System, as discussed in Sect. 23.2.
@@ -87,3 +88,79 @@ class Document:
         self.title = title
         self.url = url
         self.nwords = nwords
+
+"""
+SCORING FUNCTIONS
+"""
+
+class BM25:
+    def __init__(self, documents, k=2.0, b=0.75):
+        self.documents = documents  # List of documents, where each document is a list of terms
+        self.k1 = k1  # Tuning parameter (1.5 is a common default value)
+        self.b = b  # Tuning parameter (0.75 is a common default value)
+        self.N = len(documents)  # Total number of documents
+        self.doc_lengths = [len(doc) for doc in documents]  # Length of each document
+        self.avg_doc_length = sum(self.doc_lengths) / self.N  # Average document length
+        self.term_freqs = defaultdict(lambda: defaultdict(int))
+        self.doc_freqs = defaultdict(int)
+        self.idfs = {}
+
+        # Compute term frequencies and document frequencies
+        self.compute_frequencies()
+
+        # Compute inverse document frequencies
+        self.compute_idfs()
+
+    def compute_frequencies(self):
+        """Compute term frequencies and document frequencies."""
+        for doc_id, doc in enumerate(self.documents):
+            seen_terms = set()
+            for term in doc:
+                self.term_freqs[term][doc_id] += 1
+                if term not in seen_terms:
+                    self.doc_freqs[term] += 1
+                    seen_terms.add(term)
+
+    def compute_idfs(self):
+        """Compute inverse document frequencies."""
+        for term, doc_freq in self.doc_freqs.items():
+            # Calculate IDF using log(N / df)
+            self.idfs[term] = math.log((self.N + 1) / (doc_freq + 1)) + 1
+
+    def score(self, query, doc_id):
+        """Compute BM25 score for a given query and document."""
+        score = 0.0
+        doc_length = self.doc_lengths[doc_id]
+        doc = self.documents[doc_id]
+
+        for term in query:
+            if term in self.term_freqs:
+                # Calculate term frequency in the document
+                tf = self.term_freqs[term][doc_id]
+                # Calculate term frequency using BM25 formula
+                numerator = tf * (self.k1 + 1)
+                denominator = tf + self.k1 * (1 - self.b + self.b * (doc_length / self.avg_doc_length))
+                tf_component = numerator / denominator
+
+                # Calculate the BM25 score
+                idf = self.idfs[term]
+                score += idf * tf_component
+
+        return score
+
+# Example usage
+documents = [
+    ['hello', 'world', 'foo'],
+    ['foo', 'bar', 'baz'],
+    ['hello', 'foo', 'bar', 'world']
+]
+
+query = ['hello', 'foo']
+
+# Initialize BM25 instance
+bm25 = BM25(documents)
+
+# Calculate the BM25 score for the query against each document
+for doc_id in range(len(documents)):
+    bm25_score = bm25.score(query, doc_id)
+    print(f"BM25 score for doc {doc_id}: {bm25_score}")
