@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dashboard</title>
+    <title>Parameters</title>
     <meta charset="utf-8">
     <meta name="author" content="Dihutswane Mosienyane">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -55,6 +55,20 @@
         <br>
         <div>
           {{ form.b(placeholder="Document Length Normalization, Default=0.75",
+          style='width: 50%;
+          font-weight: bold;
+          padding: 12px 20px ;
+          margin: 8px 0;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          box-sizing: border-box') }}
+          {% for error in form.b.errors %}
+          <p>{{ error }}</p>
+          {% endfor %}
+        </div>
+        <br>
+        <div>
+          {{ form.number_of_docs(placeholder="Number of Documents to be Returned, Default=10",
           style='width: 50%;
           font-weight: bold;
           padding: 12px 20px ;

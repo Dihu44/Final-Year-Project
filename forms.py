@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField,PasswordField,SubmitField,BooleanField,SelectField,TextAreaField,DecimalField
+from wtforms import StringField,PasswordField,SubmitField,BooleanField,SelectField,TextAreaField,DecimalField,IntegerField
 from wtforms.validators import InputRequired,DataRequired,Email,EqualTo,URL,Regexp,Optional
 
 class RegistrationForm(FlaskForm):
@@ -26,4 +26,5 @@ class QueryForm(FlaskForm):
 class ParameterForm(FlaskForm):
     k = DecimalField('k', validators=[Optional()])
     b = DecimalField('b', validators=[Optional()])
+    number_of_docs = IntegerField('Number of Documents to be Returned', validators=[Optional()])
     submit = SubmitField('Submit')

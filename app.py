@@ -88,10 +88,9 @@ def iterate_files(folder_path):
     for item in os.listdir(folder_path):
         item_path = os.path.join(folder_path, item)
         if os.path.isfile(item_path):
-            #print("Processing:", item_path)
             paths.append(item_path)
         elif os.path.isdir(item_path):
-            return paths + iterate_files(item_path)
+            paths.extend(iterate_files(item_path))  # Recursive call
     return paths
 
 @app.route('/dashboard', methods=['GET', 'POST'])
@@ -105,6 +104,7 @@ def dashboard():
         stopwords = form.stopwords.data
         stopwords_list = stopwords.split(',')
         stopwords = ' '.join(stopwords_list)
+        print(stopwords)
 
         # Where the website will be downloaded to
         #out_directory = os.path.dirname(__file__) + "/downloads"
@@ -130,7 +130,7 @@ def dashboard():
         for i in result.present_results(query):
         	print(i)
         """
-        return redirect(url_for('parameters', query=query, url=url, scoring_function=scoring_function, stopword=stopwords))
+        return redirect(url_for('parameters', query=query, url=url, scoring_function=scoring_function, stopwords=stopwords))
 
     return render_template('dashboard.html', form=form)
 
@@ -140,7 +140,7 @@ def parameters():
     query = request.args.get('query', '')
     url = request.args.get('url', '')
     scoring_function = request.args.get('scoring_function', '')
-    stopwords = request.args.get('stopword', '')
+    stopwords = request.args.get('stopwords', '')
 
     form = ParameterForm()
     if request.method == 'POST' and form.validate_on_submit():
@@ -149,19 +149,108 @@ def parameters():
 
         k = form.k.data
         b = form.b.data
+        number_of_docs = form.number_of_docs.data
 
-        paths = iterate_files(out_directory)
-        result = IRSystem()
-        html_paths = [path for path in paths if path.endswith('.html')]
-        prefix = os.path.dirname(__file__)
-
-        result.index_collection(html_paths)
-        result.query(query)
-        for i in result.present_results(query):
-        	print(i)
-        return render_template('parameters.html', form=form)
+        return redirect(url_for('results', query=query, url=url, scoring_function=scoring_function, stopwords=stopwords, k=k, b=b, number_of_docs=number_of_docs))
 
     return render_template('parameters.html', form=form)
+
+@app.route('/results', methods=['GET', 'POST'])
+@login_required
+def results():
+    query = request.args.get('query', '')
+    url = request.args.get('url', '')
+    scoring_function = request.args.get('scoring_function', '')
+    stopwords = request.args.get('stopwords', '')
+    k = request.args.get('k', '')
+    b = request.args.get('b', '')
+    number_of_docs = request.args.get('number_of_docs', '')
+
+    k_float = 0.0
+    b_float = 0.0
+    number_of_docs_int = 0
+    if k:
+    	k_float = float(k)
+    if b:
+    	b_float = float(b)
+    if number_of_docs:
+    	number_of_docs_int = int(number_of_docs)
+
+
+    # Where the website will be downloaded to
+    out_directory = os.path.dirname(__file__) + "/static"
+    
+    paths = iterate_files(out_directory)
+    if len(stopwords) > 0:
+        result = IRSystem(stopwords)
+    else:
+        result = IRSystem()
+
+    html_paths = [path for path in paths if path.endswith('.html')]
+    print(paths)
+
+    result.index_collection(html_paths)
+    results = []
+    if k_float > 0.0 and b_float > 0.0 and number_of_docs_int > 0:
+        """
+        print(1)
+        for i in result.present_results(query, number_of_docs_int, k_float, b_float):
+            print(i)
+        """
+        results = result.present_results(query, number_of_docs_int, k_float, b_float)
+    elif k_float > 0.0 and not (b_float > 0.0) and not (number_of_docs_int > 0):
+        """
+        print(2)
+        for i in result.present_results(query, k=k_float):
+            print(i)
+        """
+        results = result.present_results(query, k=k_float)
+    elif not (k_float > 0.0) and b_float > 0.0 and not (number_of_docs_int > 0):
+        """
+        print(3)
+        for i in result.present_results(query, b=b_float):
+            print(i)
+        """
+        results = result.present_results(query, b=b_float)
+    elif k_float > 0.0 and b_float > 0.0 and not (number_of_docs_int > 0):
+        """
+        print(4)
+        for i in result.present_results(query, k=k_float, b=b_float):
+            print(i)
+        """
+        results = result.present_results(query, k=k_float, b=b_float)
+    elif not (k_float > 0.0) and not (b_float > 0.0) and number_of_docs_int > 0:
+        """
+        print(5)
+        for i in result.present_results(query, n=number_of_docs_int):
+            print(i)
+        """
+        results = result.present_results(query, n=number_of_docs_int)
+    elif k_float > 0.0 and not (b_float > 0.0) and number_of_docs_int > 0:
+        """
+        print(6)
+        for i in result.present_results(query, n=number_of_docs_int, k=k_float):
+            print(i)
+        """
+        results = result.present_results(query, n=number_of_docs_int, k=k_float)
+    elif not (k_float > 0.0) and b_float > 0.0 and number_of_docs_int > 0:
+        """
+        print(7)
+        for i in result.present_results(query, n=number_of_docs_int, b=b_float):
+            print(i)
+        """
+        results = result.present_results(query, n=number_of_docs_int, b=b_float)
+    else:
+        """
+        print(8)
+        for i in result.present_results(query):
+            print(i)
+        """
+        results = result.present_results(query)
+
+    print(results)
+
+    return render_template('results.html', query=query, url=url, scoring_function=scoring_function, results=results)
 
 #Used to create the table defined in the User class/model
 with app.app_context():
