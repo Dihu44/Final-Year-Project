@@ -35,12 +35,12 @@
 
     <div class="container mt-3">
       <div class="text-center">
-        <h2>Query</h2>
+        <h2>Tune Parameters</h2>
       </div>
       <form action="" method="post" style="text-align: center;">
         {{ form.hidden_tag() }}
         <div>
-          {{ form.url(placeholder="Website URL",
+          {{ form.k(placeholder="Term Frequency Scaling, Default=2.0",
           style='width: 50%;
           font-weight: bold;
           padding: 12px 20px ;
@@ -48,13 +48,13 @@
           border: 1px solid #ccc;
           border-radius: 4px;
           box-sizing: border-box') }}
-          {% for error in form.url.errors %}
+          {% for error in form.k.errors %}
           <p>{{ error }}</p>
           {% endfor %}
         </div>
         <br>
         <div>
-          {{ form.query(placeholder="Query",
+          {{ form.b(placeholder="Document Length Normalization, Default=0.75",
           style='width: 50%;
           font-weight: bold;
           padding: 12px 20px ;
@@ -62,35 +62,7 @@
           border: 1px solid #ccc;
           border-radius: 4px;
           box-sizing: border-box') }}
-          {% for error in form.query.errors %}
-          <p>{{ error }}</p>
-          {% endfor %}
-        </div>
-        <br>
-        <div>
-          {{ form.scoring_function(
-          style='width: 50%;
-          font-weight: bold;
-          padding: 12px 20px ;
-          margin: 8px 0;
-          border: 1px solid #ccc;
-          border-radius: 4px;
-          box-sizing: border-box') }}
-          {% for error in form.scoring_function.errors %}
-          <p>{{ error }}</p>
-          {% endfor %}
-        </div>
-        <br>
-        <div>
-          {{ form.stopwords(placeholder="Comma-separated Stopwords (Optional)",
-          style='width: 50%;
-          font-weight: bold;
-          padding: 12px 20px ;
-          margin: 8px 0;
-          border: 1px solid #ccc;
-          border-radius: 4px;
-          box-sizing: border-box') }}
-          {% for error in form.stopwords.errors %}
+          {% for error in form.b.errors %}
           <p>{{ error }}</p>
           {% endfor %}
         </div>
