@@ -7,7 +7,7 @@ import os
 import subprocess
 import sqlite3
 from datetime import datetime, timedelta
-from forms import RegistrationForm, LoginForm, QueryForm
+from forms import RegistrationForm, LoginForm, QueryForm, ParameterForm
 from ir_system import IRSystem
 
 app = Flask(__name__)
@@ -98,36 +98,70 @@ def iterate_files(folder_path):
 @login_required
 def dashboard():
     form = QueryForm()
-    query_result = (0,0)
     if request.method == 'POST' and form.validate_on_submit():
         query = form.query.data
         url = form.url.data
-        print(query)
-        out_directory = "/home/dihutswane/Documents/School/Final-Year-Project/downloads"
+        scoring_function = form.scoring_function.data
+        stopwords = form.stopwords.data
+        stopwords_list = stopwords.split(',')
+        stopwords = ' '.join(stopwords_list)
+
+        # Where the website will be downloaded to
+        #out_directory = os.path.dirname(__file__) + "/downloads"
 
         """
         command = f"wget -m -p -E -k -np --directory-prefix={out_directory} {url}"
         result_of_download = subprocess.run(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
         if result_of_download.returncode == 0:
-            print("Download completed successfully.")
+            flash("Download completed successfully", "success")
         else:
-            print("Error downloading file:")
-            print(result_of_download.stderr)
+            flash("Error downloading file: " + result_of_download.stderr, "error")
+            #print(result_of_download.stderr)
         """
+
+        """
+        paths = iterate_files(out_directory)
+        result = IRSystem()
+        html_paths = [path for path in paths if path.endswith('.html')]
+        prefix = os.path.dirname(__file__)
+
+        result.index_collection(html_paths)
+        result.query(query)
+        for i in result.present_results(query):
+        	print(i)
+        """
+        return redirect(url_for('parameters', query=query, url=url, scoring_function=scoring_function, stopword=stopwords))
+
+    return render_template('dashboard.html', form=form)
+
+@app.route('/parameters', methods=['GET', 'POST'])
+@login_required
+def parameters():
+    query = request.args.get('query', '')
+    url = request.args.get('url', '')
+    scoring_function = request.args.get('scoring_function', '')
+    stopwords = request.args.get('stopword', '')
+
+    form = ParameterForm()
+    if request.method == 'POST' and form.validate_on_submit():
+        # Where the website will be downloaded to
+        out_directory = os.path.dirname(__file__) + "/downloads"
+
+        k = form.k.data
+        b = form.b.data
 
         paths = iterate_files(out_directory)
         result = IRSystem()
         html_paths = [path for path in paths if path.endswith('.html')]
-        print(html_paths)
+        prefix = os.path.dirname(__file__)
+
         result.index_collection(html_paths)
-    
         result.query(query)
         for i in result.present_results(query):
         	print(i)
-        query_result = (query, result)
-        #return render_template('result2.html', query_result=query_result)
+        return render_template('parameters.html', form=form)
 
-    return render_template('dashboard.html', form=form, query_result=query_result)
+    return render_template('parameters.html', form=form)
 
 #Used to create the table defined in the User class/model
 with app.app_context():
