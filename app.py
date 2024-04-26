@@ -93,6 +93,19 @@ def iterate_files(folder_path):
             paths.extend(iterate_files(item_path))  # Recursive call
     return paths
 
+"""
+def iterate_files(folder_path):
+    paths = []
+    for item in os.listdir(folder_path):
+        item_path = os.path.join(folder_path, item)
+        if os.path.isfile(item_path):
+            #print("Processing:", item_path)
+            paths.append(item_path)
+        elif os.path.isdir(item_path):
+            return paths + iterate_files(item_path)
+    return paths
+"""
+
 @app.route('/dashboard', methods=['GET', 'POST'])
 @login_required
 def dashboard():
@@ -104,10 +117,9 @@ def dashboard():
         stopwords = form.stopwords.data
         stopwords_list = stopwords.split(',')
         stopwords = ' '.join(stopwords_list)
-        print(stopwords)
 
         # Where the website will be downloaded to
-        #out_directory = os.path.dirname(__file__) + "/downloads"
+        #out_directory = os.path.dirname(__file__) + "/static"
 
         """
         command = f"wget -m -p -E -k -np --directory-prefix={out_directory} {url}"
@@ -179,6 +191,22 @@ def results():
 
     # Where the website will be downloaded to
     out_directory = os.path.dirname(__file__) + "/static"
+    #ub_path = out_directory + "/www.ub.bw"
+    #dire = out_directory +
+
+    """
+    if not url == "https://www.ub.bw/":
+        print("YOYOUIUU")
+        command = f"wget -m -p -E -k -np --directory-prefix={out_directory} {url}"
+        result_of_download = subprocess.run(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+        if result_of_download.returncode == 0:
+            #flash("Download completed successfully", "success")
+            print("Success")
+        else:
+            #flash("Error downloading file: " + result_of_download.stderr, "error")
+            #print(result_of_download.stderr)
+            print("Error")
+    """
     
     paths = iterate_files(out_directory)
     if len(stopwords) > 0:
@@ -187,7 +215,6 @@ def results():
         result = IRSystem()
 
     html_paths = [path for path in paths if path.endswith('.html')]
-    print(paths)
 
     result.index_collection(html_paths)
     results = []
@@ -250,7 +277,7 @@ def results():
 
     print(results)
 
-    return render_template('results.html', query=query, url=url, scoring_function=scoring_function, results=results)
+    return render_template('results.html', scoring_function=scoring_function, results=results)
 
 #Used to create the table defined in the User class/model
 with app.app_context():
