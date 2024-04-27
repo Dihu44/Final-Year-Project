@@ -22,18 +22,29 @@
       </div>
     </nav>
 
-    <div class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark" style="width: 280px;">
+    <div>
+  <!-- Fixed Sidebar -->
+  <div class="position-fixed" style="top: 0; left: 0; height: 100vh; width: 150px; background-color: #343a40; color: white;">
+    <div class="p-3">
       <ul class="nav nav-pills flex-column mb-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="/dashboard">Submit Query</a>
+          <a class="nav-link active text-white" href="/dashboard">Submit Query</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="/dashboard">Query History</a>
+          <a class="nav-link text-white" href="/history">Query History</a>
         </li>
       </ul>
+      <hr>
     </div>
+  </div>
 
-    <div class="container mt-3">
+  <!-- Content Area (with offset for sidebar) -->
+  <div style="margin-left: 50px; padding: 10px;">
+    <!-- Your main content goes here -->
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6 mx-auto">
+          <div class="container mt-3">
       <div class="text-center">
         <h2>Query</h2>
       </div>
@@ -41,7 +52,7 @@
         {{ form.hidden_tag() }}
         <div>
           {{ form.url(placeholder="Website URL",
-          style='width: 50%;
+          style='width: 110%;
           font-weight: bold;
           padding: 12px 20px ;
           margin: 8px 0;
@@ -55,7 +66,7 @@
         <br>
         <div>
           {{ form.query(placeholder="Query",
-          style='width: 50%;
+          style='width: 110%;
           font-weight: bold;
           padding: 12px 20px ;
           margin: 8px 0;
@@ -69,7 +80,7 @@
         <br>
         <div>
           {{ form.scoring_function(
-          style='width: 50%;
+          style='width: 110%;
           font-weight: bold;
           padding: 12px 20px ;
           margin: 8px 0;
@@ -83,7 +94,7 @@
         <br>
         <div>
           {{ form.stopwords(placeholder="Comma-separated Stopwords (Optional)",
-          style='width: 50%;
+          style='width: 110%;
           font-weight: bold;
           padding: 12px 20px ;
           margin: 8px 0;
@@ -104,5 +115,11 @@
         </p>
       </form>
     </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
   </body>
 </html>
