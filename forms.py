@@ -17,10 +17,10 @@ class LoginForm(FlaskForm):
     submit = SubmitField('Login')
 
 class QueryForm(FlaskForm):
-    url = StringField('URL', validators=[DataRequired(), InputRequired(), URL()])
+    url = StringField('URL', validators=[DataRequired(), InputRequired(), URL(), Regexp(r'^https://www', message="URL must start with 'https://www'")])
     query = StringField('Query', validators=[DataRequired(), InputRequired()])
     stopwords = TextAreaField('Stopwords', validators=[Regexp(r"^[a-zA-Z]+(,[a-zA-Z]+)*$", message="Must contain comma separated words"), Optional()])
-    scoring_function = SelectField('Scoring Function', choices=['BM25'], validators=[DataRequired(), InputRequired()])
+    scoring_function = SelectField('Scoring Function', choices=['BM25', 'Default'], validators=[DataRequired(), InputRequired()])
     submit = SubmitField('Submit')
 
 class ParameterForm(FlaskForm):
