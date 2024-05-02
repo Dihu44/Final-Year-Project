@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Results</title>
+    <title>View Query Results</title>
     <meta charset="utf-8">
     <meta name="author" content="Dihutswane Mosienyane">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,13 +27,13 @@
   <!-- Fixed Sidebar -->
   <div class="position-fixed" style="top: 0; left: 0; height: 100vh; width: 150px; background-color: #343a40; color: white;">
     <div class="p-3">
-      <h5>{{username}}</h5>
+      <h5>{{current_user.username}}</h5>
       <ul class="nav nav-pills flex-column mb-auto">
         <li class="nav-item">
-          <a class="nav-link active text-white" href="/dashboard">Submit Query</a>
+          <a class="nav-link text-white" href="/dashboard">Submit Query</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="/history">Query History</a>
+          <a class="nav-link active text-white" href="/history">Query History</a>
         </li>
       </ul>
       <hr>
@@ -46,27 +46,29 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-6 mx-auto">
-          <h2>Results: {{scoring_function}}</h2>
+          <h2>Website: {{url}}</h2>
+          <h3>Query: {{query}}</h3>
+          <h4>Scoring Function: {{scoring_function}}</h4>
+          <br>
           <table class="table table-striped">
             <thead>
               <tr>
                 <th>Title</th>
                 <th>URL</th>
                 <th>Score</th>
-                <th></th>
               </tr>
             </thead>
             <tbody>
               {% for result in results %}
               <tr>
-                <td>{{result.split('|')[2]}}</td>
-                <td>{{'/'.join(result.split('|')[1].split('/')[1:])}}</td>
-                <td>{{result.split('|')[0]}}</td>
-                <td><a href="{{result.split('|')[1]}}" target="_blank">View Document</a></td>
+                <td>{{result.document_title}}</td>
+                <td>{{result.document_url}}</td>
+                <td>{{result.document_score}}</td>
               </tr>
               {% endfor %}
             </tbody>
           </table>
+
         </div>
       </div>
     </div>

@@ -23,20 +23,21 @@
     </nav>
 
     <div>
-  <!-- Fixed Sidebar -->
-  <div class="position-fixed" style="top: 0; left: 0; height: 100vh; width: 150px; background-color: #343a40; color: white;">
-    <div class="p-3">
-      <ul class="nav nav-pills flex-column mb-auto">
-        <li class="nav-item">
-          <a class="nav-link active text-white" href="/dashboard">Submit Query</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white" href="/history">Query History</a>
-        </li>
-      </ul>
-      <hr>
+    <!-- Fixed Sidebar -->
+    <div class="position-fixed" style="top: 0; left: 0; height: 100vh; width: 150px; background-color: #343a40; color: white;">
+      <div class="p-3">
+        <h5>{{username}}</h5>
+        <ul class="nav nav-pills flex-column mb-auto">
+          <li class="nav-item">
+            <a class="nav-link active text-white" href="/dashboard">Submit Query</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="/history">Query History</a>
+          </li>
+        </ul>
+        <hr>
+      </div>
     </div>
-  </div>
 
   <!-- Content Area (with offset for sidebar) -->
   <div style="margin-left: 150px; padding: 20px;">
