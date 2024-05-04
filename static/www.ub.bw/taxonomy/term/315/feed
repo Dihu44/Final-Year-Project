@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>Faculty of Education</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Education</title>
+  <link>https://www.ub.bw/faculties-and-departments/education</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Education&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 25/01/2016 - 12:18&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;The Faculty of Education is one of the oldest faculties in the University of Botswana. The Faculty currently consists of eight (8) departments. The Faculty offers both undergraduate and graduate programme, including doctoral degrees. The Faculty has also established a strong research tradition which is evidenced by the excellent research and publications record of its academic staff. Academic staff of the Faculty does not only serve in national committees, but also in different international bodies. This has not only boosted the international profile of the Faculty, but also that of the University of Botswana.&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 25 Jan 2016 10:18:11 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">30 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

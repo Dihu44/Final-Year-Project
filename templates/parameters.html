@@ -23,7 +23,6 @@
     </nav>
 
     <div>
-    <!-- Fixed Sidebar -->
     <div class="position-fixed" style="top: 0; left: 0; height: 100vh; width: 150px; background-color: #343a40; color: white;">
       <div class="p-3">
         <h5>{{username}}</h5>
@@ -39,7 +38,6 @@
       </div>
     </div>
 
-  <!-- Content Area (with offset for sidebar) -->
   <div style="margin-left: 150px; padding: 20px;">
     <!-- Your main content goes here -->
     <div class="container">
@@ -88,7 +86,7 @@
           border: 1px solid #ccc;
           border-radius: 4px;
           box-sizing: border-box') }}
-          {% for error in form.b.errors %}
+          {% for error in form.number_of_docs.errors %}
           <p>{{ error }}</p>
           {% endfor %}
         </div>
