@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>Health and Wellness Centre</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Health and Wellness Centre</title>
+  <link>https://www.ub.bw/discover/administration-and-support/health-and-wellness-centre</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health and Wellness Centre&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 21/08/2017 - 15:06&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-01/banner_dvcsa_health_wellnes_centre.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/247"&gt;Health and Wellness Centre&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;Health and Wellness Centre&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;Health and Wellness Centre is a user friendly facility committed at promoting healthy lifestyles among students and staff and contribute to their measurable positive health outcomes, through provision ofÂ quality health education, prevention programs and psychological care to the University Community. The Centre offers a comprehensive array of services to students and staff of the University of Botswana. Health and Wellness Centre recognizes that wellness is essential to the UB community as such we are creating a culture of wellness on campus, making the University a place where people can experience a commitment to their health and wellbeing.&lt;/p&gt;
+
+&lt;h2&gt;Goals of the Health &amp; Wellness Centre&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;To promoting, and improve the wellbeing of University students and staff through education and awareness programmes.&lt;/li&gt;
+	&lt;li&gt;To coordinate the implementation of education programmes aimed addressing health and wellness issues of the University community.&lt;/li&gt;
+	&lt;li&gt;To coordinate health and wellness activities initiated by UB students and staff, especially aimed at creating awareness amongst the University Community&lt;/li&gt;
+	&lt;li&gt;To conduct sensitisation and awareness campaigns for both students and staff on various health and wellness matters.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Mon, 21 Aug 2017 13:06:55 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">516 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>Legal Services</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Legal Services</title>
+  <link>https://www.ub.bw/discover/administration-and-support/legal-services</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Legal Services&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 09/05/2017 - 12:01&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-01/banner_vc_legal_services.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/189"&gt;Legal Services&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;Legal Services&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;</description>
+  <pubDate>Tue, 09 May 2017 10:01:38 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">299 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

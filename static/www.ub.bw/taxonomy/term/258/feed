@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>School of Graduate Studies</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>School of Graduate Studies</title>
+  <link>https://www.ub.bw/discover/administration-and-support/school-graduate-studies</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;School of Graduate Studies&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 23/08/2017 - 14:57&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-01/banner_dvcas_graduate_studies.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/258"&gt;School of Graduate Studies&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;School of Graduate Studies&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Ready to take the extra step? Transform your world with Botswana’s premier postgraduate education provider!&lt;span&gt; Become part of an elite group of influential leaders, professionals, and researchers through our flexible and innovative post graduate programmes. Our world class campuses in Gaborone and Maun offer multidisciplinary courses leading to postgraduate Diploma, Masters, MPhil and PhD qualifications. &lt;/span&gt;With leaders in national research and acclaimed international scholars delivering your courses and supervising your work, your learning experience will be more than just getting a degree.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Are you ready to expand your professional qualifications and increase opportunities for a more rewarding career? Our experts are ready to assist you.&lt;/span&gt; Enroll now or contact us for more information.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;        		
+        &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Wed, 23 Aug 2017 12:57:26 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">534 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

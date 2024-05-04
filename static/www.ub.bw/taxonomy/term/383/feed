@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>registration</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>How to Register</title>
+  <link>https://www.ub.bw/study/how-register</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;How to Register&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 02/02/2023 - 17:00&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2023-02/webform.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/383"&gt;Registration&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;How to Register&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;&lt;span&gt;&lt;span&gt;University of Botswana has the online registration facility. The online registration requires that one be an admitted student, current student or former student. If you are unable to register online, please contact your Faculty Administrator. Click the link “&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://kalahari.ub.bw:8443/ps/signon.html"&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;&lt;span&gt;&lt;span&gt;Register Online Here&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;&lt;span&gt;&lt;span&gt;” or login to the &lt;a href="https://kalahari.ub.bw:8443/ps/signon.html"&gt;student portal&lt;/a&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://kalahari.ub.bw:8443/ps/signon.html"&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;&lt;span&gt;&lt;span&gt;Register Online here&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;        		
+        &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Thu, 02 Feb 2023 15:00:40 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">4223 at https://www.ub.bw</guid>
+    </item>
+<item>
+  <title>Registration Requirements</title>
+  <link>https://www.ub.bw/study/registration-requirements</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Registration Requirements&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 06/08/2020 - 13:05&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-08/webform.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/383"&gt;Registration&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;Registration for Semester 1 of 2023/24 Academic Year&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section gray-bg parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;Registration is a mandatory process that all new students and those returning for subsequent years of study must undertake, thus for one to be declared a bonafide student at the University of Botswana, they must be registered. All students are expected to register with the University every semester before the start of classes. It is against the academic regulations of the University for anyone to attend classes for courses that they have not registered for.&lt;/p&gt;
+
+&lt;p&gt;Information on the registration process is available on the &lt;a href="#ugrad-docs"&gt;registration package below&lt;/a&gt;. The registration window for students to start online registration will open on 19th June 2023. It is expected that the availing of information on the &lt;a href="https://www.facebook.com/UBMmadikolo"&gt;registration package&lt;/a&gt; will afford new students the opportunity to go through the faculty registration guidelines provided to ready themselves for online registration on 19th June 2023.&lt;/p&gt;
+
+&lt;p&gt;The University of Botswana will update students on registration for Semester 1 of 2023/24 on weekly basis through its official Facebook page: &lt;a href="https://www.facebook.com/UBMmadikolo"&gt;University of Botswana_Official&lt;/a&gt;.&lt;/p&gt;        		
+        &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section white-bg parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Before you begin your registration&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;Please go over the &lt;span&gt;materials in the &lt;a href="#ugrad-docs"&gt;r&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="#ugrad-docs"&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;egistration package&lt;/span&gt;&lt;/a&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;&lt;span&gt;Make sure you have paid appropriate fees &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;or you have a sponsorship letter.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="ugrad-docs" class="section gray-bg parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Registration Package&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon docs"&gt;
+
+		  
+                  &lt;div class="paragraph paragraph--type--select-view paragraph--view-mode--default"&gt;
+          
+            &lt;div class="field field--name-field-select-view field--type-viewsreference field--label-hidden field__item"&gt;&lt;div class="views-element-container"&gt;&lt;div class="view view-documents view-id-documents view-display-id-block_1 js-view-dom-id-aa85e08fc0add1c257e930942989c6f18e2a489d1c33ae6215bce3ffebd0863c"&gt;
+  
+    
+      &lt;div class="view-header"&gt;
+      &lt;a name="docs-listing" id="docs-listing"&gt;&lt;/a&gt;
+    &lt;/div&gt;
+      
+      &lt;div class="view-content"&gt;
+          &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/105" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/105" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2022-07/ONLINE_REGISTRATION_A_STEP-BY-STEP-GUIDE-04072022.pdf" type="application/pdf; length=961629"&gt;ONLINE_REGISTRATION_A_STEP-BY-STEP-GUIDE-04072022.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/ONLINE_REGISTRATION_A_STEP-BY-STEP-GUIDE-04072022.pdf"&gt;Online Registration - A Step-by-step Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/108" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/108" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2024-03/University-of-Botswana-2024-25-Financial-Procedures-Information_19032024.pdf" type="application/pdf; length=237669"&gt;University-of-Botswana-2024-25-Financial-Procedures-Information_19032024.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2024-03/University-of-Botswana-2024-25-Financial-Procedures-Information_19032024.pdf"&gt;2024 Financial Procedures&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/109" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/109" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2021-09/Revised-Payment-Plan-Contract-07092021.pdf" type="application/pdf; length=97635"&gt;Revised-Payment-Plan-Contract-07092021.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2021-09/Revised-Payment-Plan-Contract-07092021.pdf"&gt;Tuition Fee Payment Plan&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/135" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/135" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2022-07/ASAS_Students_Self_Service_Guide-Dropping-a-Course-04072022.pdf" type="application/pdf; length=1066403"&gt;ASAS_Students_Self_Service_Guide-Dropping-a-Course-04072022.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/ASAS_Students_Self_Service_Guide-Dropping-a-Course-04072022.pdf"&gt;Dropping a Course Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/134" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/134" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2022-07/ASAS_Students_Self_Service_Guide-Swapping-classes-04072022.pdf" type="application/pdf; length=1071663"&gt;ASAS_Students_Self_Service_Guide-Swapping-classes-04072022.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/ASAS_Students_Self_Service_Guide-Swapping-classes-04072022.pdf"&gt;Swapping Classes Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/136" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/136" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2022-07/Forgot-Password-on-ASAS-June-04072022.pdf" type="application/pdf; length=1601719"&gt;Forgot-Password-on-ASAS-June-04072022.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/Forgot-Password-on-ASAS-June-04072022.pdf"&gt;Password Reset Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/164" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/164" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/TIMETABLE-FOR-SEMESTER-1-OF-2023-24_LECTURING-16062023_0.pdf" type="application/pdf; length=2432209"&gt;TIMETABLE-FOR-SEMESTER-1-OF-2023-24_LECTURING-16062023_0.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/TIMETABLE-FOR-SEMESTER-1-OF-2023-24_LECTURING-16062023_0.pdf"&gt;Lecturing Timetable for Semester 1 of 2023/24 Academic Year&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/226" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/226" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/FACULTY-OF-BUSINESS-COURSES-TO-REGISTER-FOR-UNDER-SPECIFIC-PROGRAMMES-19062023.pdf" type="application/pdf; length=299082"&gt;FACULTY-OF-BUSINESS-COURSES-TO-REGISTER-FOR-UNDER-SPECIFIC-PROGRAMMES-19062023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/FACULTY-OF-BUSINESS-COURSES-TO-REGISTER-FOR-UNDER-SPECIFIC-PROGRAMMES-19062023.pdf"&gt;Faculty of Business Registration Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/225" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/225" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Education-Registration-Guide-26062023.pdf" type="application/pdf; length=1060618"&gt;Faculty-of-Education-Registration-Guide-26062023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Education-Registration-Guide-26062023.pdf"&gt;Faculty of Education Registration Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/221" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/221" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Engineering-Technology-Registration-Guide-2023-16062023.pdf" type="application/pdf; length=182367"&gt;Faculty-of-Engineering-Technology-Registration-Guide-2023-16062023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Engineering-Technology-Registration-Guide-2023-16062023.pdf"&gt;Faculty of Engineering and Technology First years Registration Guide 2023&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/222" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/222" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Health-Sciences-Registration-Guide-For-First-Year-Students_2023.pdf" type="application/pdf; length=258164"&gt;Faculty-of-Health-Sciences-Registration-Guide-For-First-Year-Students_2023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Health-Sciences-Registration-Guide-For-First-Year-Students_2023.pdf"&gt;Faculty of Health Sciences Registration Guide For First Year Students&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/223" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/223" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Humanities-Registration-Guide_2023.pdf" type="application/pdf; length=211689"&gt;Faculty-of-Humanities-Registration-Guide_2023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Humanities-Registration-Guide_2023.pdf"&gt;Faculty of Humanities(FoH) Registration Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/188" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/188" hreflang="en"&gt;
+&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-wordprocessingml-document file--x-office-document"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2022-07/Add-form-FoS-26072022.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document; length=47733"&gt;Add-form-FoS-26072022.docx&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/Add-form-FoS-26072022.docx"&gt;Add Form - Faculty of Science&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/186" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/186" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-Of-Science-Registration-Guidelines-16062023.pdf" type="application/pdf; length=474452"&gt;Faculty-Of-Science-Registration-Guidelines-16062023.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-Of-Science-Registration-Guidelines-16062023.pdf"&gt;Faculty Of Science Registration Guidelines&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/224" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/224" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Social-Sciences-Registration-Guide.pdf" type="application/pdf; length=1307372"&gt;Faculty-of-Social-Sciences-Registration-Guide.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Faculty-of-Social-Sciences-Registration-Guide.pdf"&gt;Faculty of Social Sciences Registration Guide&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class="views-row"&gt;&lt;div class="views-field views-field-field-document-1"&gt;&lt;div class="field-content"&gt;&lt;a href="https://www.ub.bw/media/128" hreflang="en"&gt;&lt;/a&gt;&lt;a href="https://www.ub.bw/media/128" hreflang="en"&gt;
+&lt;span class="file file--mime-application-pdf file--application-pdf"&gt; &lt;a href="https://www.ub.bw/sites/default/files/2023-06/Almanac-for-University-of-Botswana_2023-2024-16062023_0.pdf" type="application/pdf; length=188934"&gt;Almanac-for-University-of-Botswana_2023-2024-16062023_0.pdf&lt;/a&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-nothing"&gt;&lt;span class="field-content"&gt;&lt;a href="https://www.ub.bw/sites/default/files/2023-06/Almanac-for-University-of-Botswana_2023-2024-16062023_0.pdf"&gt;UB Almanac 2023/2024&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+  
+          
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+      &lt;/div&gt;
+
+        
+
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section gray-bg parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Payment of fees&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;All &lt;strong&gt;Returning/continuing students under DTEF sponsorship,&lt;/strong&gt; are expected to register without making any payment.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;All Newly Sponsored Students&lt;/strong&gt; (DTEF and other Sponsors) should send their sponsorship letters by email to: &lt;a href="mailto:studentpayments@ub.ac.bw"&gt;studentpayments@ub.ac.bw&lt;/a&gt;.  Please do ensure that you write your Student ID (Ref in your Admission letter) in the subject of email.&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;All&lt;strong&gt; Self‑Sponsored Students (Returning and New)&lt;/strong&gt; are expected to pay a minimum of 25&lt;strong&gt;%&lt;/strong&gt; of all the &lt;strong&gt;Semester fees (Tuition, International Administration Fee, Accommodation, Excursion and Student Life)&lt;/strong&gt;. &lt;em&gt;The remaining 75% balance be paid in monthly equal instalments, payable all before end&lt;/em&gt; of each semester. Once the payment has been done, complete the &lt;/span&gt;&lt;a href="https://www.ub.bw/sites/default/files/2021-09/Revised-Payment-Plan-Contract-07092021.pdf"&gt;&lt;span&gt;&lt;span&gt;Payment Plan form&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;. Send scanned Payment Plan form and Proof of Payment to &lt;/span&gt;&lt;a href="mailto:studentpayments@ub.ac.bw"&gt;&lt;span&gt;&lt;span&gt;studentpayments@ub.ac.bw&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, we will then facilitate your registration and will respond to the email to indicate that you may register.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;To comply with Covid-19 protocols, students are advised not to come to Students Debtors Offices but utilize the availed online resources. This will ensure that there is no overcrowding and will reduce exposure to Covid-19 infection for our students.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Making your payment&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Online Payment&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;:&lt;br /&gt;
+	Students can pay their fees online using the &lt;a href="https://www.ub.bw/ubpayments"&gt;UB Payments&lt;/a&gt; platform.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;&lt;strong&gt;Bank Deposit:&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	 
+	&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Local students&lt;/strong&gt; can pay their fees at any branch of &lt;em&gt;First National Bank of Botswana &lt;/em&gt;into &lt;strong&gt;Account Name:&lt;/strong&gt; &lt;strong&gt;University of Botswana&lt;/strong&gt;, &lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Bank Account Number:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt; 62130787601&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+		 &lt;/li&gt;
+		&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;&lt;strong&gt;International students&lt;/strong&gt; can pay into the Standard Chartered Bank Account details of which are as follows:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+		 
+		&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="text-align-right"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Account Name:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;University of Botswana&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td class="text-align-right"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Account Number:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;0100110109600&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td class="text-align-right"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Branch code:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;662167&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td class="text-align-right"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;Swift code:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+					&lt;td&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;SCHBBWGX&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+				&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br /&gt;
+		 &lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt;For any financial queries or questions kindly send an email to this email address &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;a href="studentpayments@ub.ac.bw"&gt;studentpayments@ub.ac.bw&lt;/a&gt;,&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-ZA" xml:lang="EN-ZA" xml:lang="EN-ZA"&gt;&lt;span&gt; or call +267 355 4633/4634/4635 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section gray-bg parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Academic registration online&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Before you start the registration process, ensure that you have a list of courses that you are supposed to register for, otherwise contact your Faculty for guidance in that regard. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;This process applies mainly to new students as those returning are aware of the process of logging into the Student Administration System. New students are therefore to follow the steps below followed by the ones on the &lt;/span&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/ONLINE_REGISTRATION_A_STEP-BY-STEP-GUIDE-04072022.pdf"&gt;&lt;b&gt;&lt;span&gt;ONLINE REGISTRATION: A STEP‑BY‑STEP GUIDE&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span&gt;to complete academic registration.&lt;strong&gt;&lt;span&gt; The first steps towards online registration are as follows&lt;/span&gt;&lt;/strong&gt;:&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Open the &lt;/span&gt;&lt;a href="https://kalahari.ub.bw:8443/ps/signon.html"&gt;&lt;b&gt;&lt;span&gt;Student Administration System&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;span style="font-size:12.0pt"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;You will then have to provide your login details in order to access the system. Your login details are as follows: &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+	&lt;ol style="list-style-type:lower-alpha"&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;User ID:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Your &lt;em&gt;&lt;span&gt;Student Identity Number (&lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Ref&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt;: on the Admission offer)&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;Password:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; &lt;em&gt;&lt;span&gt;This is made up of &lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;the first 2&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt; letters of your &lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;First Name&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt; in uppercase, &lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;the first 2&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;Surname&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt; in uppercase and &lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;the last 4 &lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt;number of&lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt; &lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt;your Student Identity Number. The example below is an illustration of the login details are explained above:&lt;/span&gt;&lt;/em&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+		&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;If your Student Identity Number is: &lt;strong&gt;&lt;span&gt;202001460, and your &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;First name is&lt;strong&gt;&lt;span&gt; Peter&lt;/span&gt;&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Surname is &lt;strong&gt;&lt;span&gt;Tomson&lt;/span&gt;&lt;/strong&gt;, then &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;User ID&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;: 202001460, &lt;strong&gt;&lt;span&gt;Password&lt;/span&gt;&lt;/strong&gt;: PETO1460&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;&lt;/li&gt;
+	&lt;/ol&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;&lt;span&gt;&lt;span&gt;Finally Click on &lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;strong&gt;&lt;i&gt;&lt;span&gt;&lt;span&gt;Sign In&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/strong&gt;&lt;em&gt;&lt;span&gt;&lt;span&gt; in order to access the System.&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;&lt;span&gt;&lt;span&gt;You can now follow the steps outlined in the &lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;a href="https://www.ub.bw/sites/default/files/2022-07/ONLINE_REGISTRATION_A_STEP-BY-STEP-GUIDE-04072022.pdf"&gt;&lt;b&gt;&lt;span&gt;ONLINE REGISTRATION: A STEP‑BY‑STEP GUIDE&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span&gt;to complete your academic registration &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;or follow the steps conveyed through the video below which summarises the whole academic registration process&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;div class="video-embed-field-provider-youtube video-embed-field-responsive-video"&gt;&lt;iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/d6Agd6UEEjM?autoplay=0&amp;start=0&amp;rel=0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;ol start="5"&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;&lt;span&gt;&lt;span&gt;Once you have completed your registration, you can click on LOG-OUT to exit the Student Administration System.&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;h3&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;NB:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;The System may prompt you to change your password after first login.&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;&lt;span&gt;If you have any difficulty to login into the system contact your Faculty IT support.&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;For any enquiries on registration or any other related matters, send an email to your Faculty or contact them by telephone on the numbers shown on the table below:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;!--This&nbsp;process applies&nbsp;mainly to new students as those returning are aware of the process of logging into the Student Administration System. New students are therefore to follow the steps below followed by the&nbsp;ones on the &lt;a href="file:///C:/sites/default/files/2020-08/ONLINE-REGISTRATION-A-STEP-BY-STEP-GUIDE.pdf"&gt;&lt;strong&gt;ONLINE REGISTRATION: A STEP‑BY‑STEP GUIDE&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&nbsp;&lt;/strong&gt;to complete academic registration.&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The first steps towards online registration are as follows&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol start="1" type="1"&gt;
+	&lt;li&gt;Open the&nbsp;&lt;a href="http://morojwa.ub.bw:7001/psp/cs9prod/?cmd=login&amp;languageCd=ENG"&gt;&lt;strong&gt;Student Administration System&lt;/strong&gt;&lt;/a&gt;.&lt;br /&gt;
+	&nbsp;&lt;/li&gt;
+	&lt;li&gt;You will then have to provide your login details in order to access the system. Your login details are as follows:
+	&lt;ol start="1" type="a"&gt;
+		&lt;li&gt;&lt;strong&gt;User ID:&lt;/strong&gt; Your &lt;em&gt;Student Identity Number (&lt;/em&gt;&lt;strong&gt;&lt;em&gt;Ref&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: on the Admission offer)&lt;/em&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;Password:&lt;/strong&gt; &lt;em&gt;This is made up of &lt;/em&gt;&lt;strong&gt;&lt;em&gt;the first 2&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; letters of your &lt;/em&gt;&lt;strong&gt;&lt;em&gt;First Name&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; in uppercase, &lt;/em&gt;&lt;strong&gt;&lt;em&gt;the first 2&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; letters of your &lt;/em&gt;&lt;strong&gt;&lt;em&gt;Surname&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; in uppercase and &lt;/em&gt;&lt;strong&gt;&lt;em&gt;the last 4 &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;number of&lt;/em&gt;&lt;em&gt;your Student Identity Number. The example below is an illustration of the login details are explained above:&lt;/em&gt;
+		&lt;ul type="square"&gt;
+			&lt;li&gt;If your Student Identity Number is: &lt;strong&gt;202001460, and your &lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;First name is&lt;strong&gt; Peter&lt;/strong&gt;&lt;/li&gt;
+			&lt;li&gt;Surname is &lt;strong&gt;Tomson&lt;/strong&gt;, then&lt;/li&gt;
+			&lt;li&gt;&lt;strong&gt;User ID&lt;/strong&gt;: 202001460, &lt;strong&gt;Password&lt;/strong&gt;: PETO1460&lt;br /&gt;
+			&nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ol&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Finally Click on &lt;strong&gt;Sign In&lt;/strong&gt; in order to access the System.&lt;br /&gt;
+	&nbsp;&lt;/li&gt;
+	&lt;li&gt;You can now follow the steps outlined in the &lt;a href="file:///C:/sites/default/files/2020-08/ONLINE-REGISTRATION-A-STEP-BY-STEP-GUIDE.pdf"&gt;&lt;strong&gt;ONLINE REGISTRATION: A STEP‑BY‑STEP GUIDE&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&nbsp;&lt;/strong&gt;to complete your academic registration.&lt;br /&gt;
+	&nbsp;&lt;/li&gt;
+	&lt;li&gt;Once you have completed your registration, you can click on&nbsp;LOG-OUT&nbsp;to&nbsp;exit&nbsp;the Student Administration System.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;NB:&lt;/h3&gt;
+
+&lt;ul type="disc"&gt;
+	&lt;li&gt;&lt;strong&gt;The System may prompt you to change your password after first login.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;If you have any difficulty to login into the system&nbsp;contact your Faculty IT support.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;For any enquiries on registration or any other related matters, send an email to your Faculty or contact them by telephone on the numbers shown on the table below:&lt;/li&gt;
+&lt;/ul--&gt;&lt;/p&gt;
+
+&lt;table width="100%"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th valign="top" width="25%"&gt;Name of Faculty&lt;/th&gt;
+			&lt;th valign="top" width="25%"&gt;Email Address(es)&lt;/th&gt;
+			&lt;th valign="top" width="25%"&gt;Contact Number(s)&lt;/th&gt;
+			&lt;th valign="top" width="25%"&gt;IT Support&lt;/th&gt;
+		&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Business&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a data-auth="NotApplicable" href="mailto:fobenquiries@ub.ac.bw" id="LPlnk490245" rel="noopener noreferrer" target="_blank"&gt;fobenquiries@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 2385/ 2225/ 2218/ 2239/ 4989/ 2965/ 4637/ 4073&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:fob-itsupport@ub.ac.bw"&gt;fob-itsupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:EduFacultyAdmin@ub.ac.bw"&gt;EduFacultyAdmin@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 2392/ 2393/ 2387&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:FoE-ITSupport@ub.ac.bw"&gt;FoE-ITSupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Engineering &amp; Technology&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a data-auth="NotApplicable" data-linkindex="0" data-ogsc="" href="mailto:foeenquiries@ub.ac.bw" id="LPlnk547282" rel="noopener noreferrer" target="_blank"&gt;foeEnquiries@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 5399/ 4279/ 4481&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:fetit@ub.ac.bw"&gt;fetit@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Health Sciences&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt; &lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 4574&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:FHS-ITSupport@ub.ac.bw"&gt;FHS-ITSupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Humanities&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;
+			&lt;ol&gt;&lt;li&gt;&lt;a href="mailto:Moneil@ub.ac.bw"&gt;Moneil@ub.ac.bw&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="mailto:MALOPESD@ub.ac.bw"&gt;MalopeSD@ub.ac.bw&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="mailto:pheresij@ub.ac.bw"&gt;Pheresij@ub.ac.bw&lt;/a&gt;&lt;/li&gt;
+			&lt;/ol&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 2639/ 2643/ 2645&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:FOH-IT@ub.ac.bw"&gt;FOH-IT@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Medicine&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt; &lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 5556&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:fom-itsupport@ub.ac.bw"&gt;fom-itsupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Science&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt; &lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 2475/ 2473&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:fos-itsupport@ub.ac.bw"&gt;fos-itsupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;Social Sciences&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a data-auth="NotApplicable" href="mailto:Facultyadministratorfss@ub.ac.bw" id="LPlnk585638" rel="noopener noreferrer" target="_blank"&gt;Facultyadministratorfss@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt;+267 355 2744&lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:FSS-ITSupport@ub.ac.bw"&gt;FSS-ITSupport@ub.ac.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td valign="top"&gt;&lt;strong&gt;CCE&lt;/strong&gt;&lt;/td&gt;
+			&lt;td valign="top"&gt; &lt;/td&gt;
+			&lt;td valign="top"&gt; &lt;/td&gt;
+			&lt;td valign="top"&gt;&lt;a href="mailto:adminitsupport@ub.ub.bw"&gt;adminitsupport@ub.ub.bw&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Once you have completed the academic registration online, you can go to Block 139 (Student Centre), Office 102, for your Student Identity Card. As a student you have the responsibility to update your personal information and contact details throughout your studies using Student Self Service.&lt;/p&gt;
+        		
+        &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="section-title text-center"&gt;
+			&lt;h2&gt;Application for accommodation on campus (freshers only)&lt;/h2&gt;
+		&lt;/div&gt;
+	  &lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;This is available for all new students, both local and internationals.  Note that you can only start the process of applying for accommodation after you have completed your academic registration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The first steps towards applying for accommodation are as follows:&lt;/strong&gt; &lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Open the &lt;a href="https://bonno.ub.bw/page/studentlogin"&gt;&lt;strong&gt;Residence Management System&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;This link will take you to the Student Accommodation Access, as seen below, where you will apply for accommodation on‑Campus.&lt;/li&gt;
+	&lt;li&gt;You will then have to provide your login details as in Step 3 above in order to access the system. The login details are as follows:
+	&lt;ol type="a"&gt;&lt;li&gt;&lt;strong&gt;Username: &lt;/strong&gt;your Student Identity Number.&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;Password:&lt;/strong&gt; your Student Identity Number.&lt;/li&gt;
+	&lt;/ol&gt;&lt;/li&gt;
+	&lt;li&gt;Finally Click on &lt;strong&gt;Login&lt;/strong&gt; in order to access the System.&lt;/li&gt;
+	&lt;li&gt;Complete the online Application Form noting that all fields with an asterisk are mandatory;&lt;/li&gt;
+	&lt;li&gt;Make sure to apply as “First Year Student”&lt;/li&gt;
+	&lt;li&gt;Once you have completed the Application Form, then submit it by clicking “&lt;strong&gt;FINISH&lt;/strong&gt;”.&lt;/li&gt;
+	&lt;li&gt;After submitting your application, a pop‑up message will appear with a reference number informing you that your application has been submitted. Do note the reference number.&lt;/li&gt;
+&lt;/ol&gt;&lt;h3&gt;NB:&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Please note that acceptance of the application does not guarantee accommodation.&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The names of those admitted into residence will be published on the University Website/intranet&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Special consideration shall be extended to those with medical conditions, disability, being an orphan and vulnerable with supporting documents submitted to Student Welfare and international students. If you send documents by email use: &lt;/strong&gt;&lt;a href="mailto:studenthousing@ub.ac.bw"&gt;&lt;strong&gt;studenthousing@ub.ac.bw&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Thu, 06 Aug 2020 11:05:14 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">3225 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

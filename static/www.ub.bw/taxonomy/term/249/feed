@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>UB Foundation</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>University of Botswana Foundation</title>
+  <link>https://www.ub.bw/discover/administration-and-support/university-botswana-foundation</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;University of Botswana Foundation&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 21/08/2017 - 15:40&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-01/banner_dvcas_ub_foundation.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/249"&gt;UB Foundation&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;University of Botswana Foundation&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;&lt;strong&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;Live the spirit of motho le motho kgomo. Grow Mmadikolo. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;University of Botswana Foundation (UBF) invites you to partner with us to continue the spirit of giving.&lt;span&gt;  &lt;/span&gt;We encourage you to be part of this rich heritage to develop research capacity, grow graduate scholarships, innovation and infrastructure of the University. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;Enrich the lives of others through donations pledges, sponsorships, and partnership while you associate with likeminded visionary alumni and industry leaders at our prestigious gala dinners and golf day events. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;Are you feeling inspired already? &lt;span&gt; &lt;/span&gt;Contact: Tel: 355 5063&lt;span&gt;  &lt;/span&gt;Email: &lt;/span&gt;&lt;span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"&gt;&lt;a href="mailto:ubfoundation@ub.ac.bw"&gt;&lt;span&gt;ubfoundation@ub.ac.bw &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;        		
+        &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Mon, 21 Aug 2017 13:40:10 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">517 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

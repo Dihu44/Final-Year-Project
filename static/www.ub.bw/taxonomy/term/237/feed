@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>Faculty of Engineering and Technology</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Engineering and Technology</title>
+  <link>https://www.ub.bw/faculties-and-departments/engineering-and-technology</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Engineering and Technology&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 25/01/2016 - 12:05&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;The Faculty of Engineering and Technology (FET) is dedicated to the following aims:&lt;/p&gt;
+
+&lt;ol type="a"&gt;&lt;li&gt;To produce high quality engineering graduates who can adapt to the work environment and discharge their duties to the satisfaction of their employers;&lt;/li&gt;
+	&lt;li&gt;To be responsive to the needs of the industry in all sectors of the Botswana economy. This will be accomplished mainly by providing study programmes designed to meet the need for highly trained manpower in required areas of technology and the environment;&lt;/li&gt;
+	&lt;li&gt;To respond to the needs of industry through research, consultancy, advisory and related services;&lt;/li&gt;
+	&lt;li&gt;To maintain a continuous dialogue with industry and other relevant bodies to determine and fulfill any needs which may be raised by industry from time to time;&lt;/li&gt;
+	&lt;li&gt;To provide access, with proper theoretical and practical backing, to recent developments in the technology sector and to prepare graduates for professional responsibilities;&lt;/li&gt;
+	&lt;li&gt;To prepare FET graduates to pursue further studies in their relevant Engineering and Technology disciplines.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 25 Jan 2016 10:05:42 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">26 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ub.bw/">
+  <channel>
+    <title>Financial Services</title>
+    <link>https://www.ub.bw/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Financial Services</title>
+  <link>https://www.ub.bw/discover/administration-and-support/financial-services</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Financial Services&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://www.ub.bw/user/1" lang="" about="https://www.ub.bw/user/1" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;webadmin&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 09/05/2017 - 12:35&lt;/span&gt;
+
+                
+&lt;!-- Start About Banner Section  --&gt;
+&lt;section class="section page-title bg-fixed bg-cover" style="background-image: url(/sites/default/files/2020-01/banner_dvcfa_financial_services.jpg);"&gt;&lt;div class="container"&gt;
+    &lt;div class="row align-items-center justify-content-center"&gt;
+      &lt;div class="main-title"&gt;
+        &lt;div class="service-banner"&gt;
+          &lt;div class="bread-crumb"&gt;  &lt;ul&gt;&lt;li&gt;
+            &lt;a href="https://www.ub.bw/"&gt;Home&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+                              &lt;li&gt;
+            &lt;a href="https://www.ub.bw/taxonomy/term/196"&gt;Financial Services&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;i class="fa fa-angle-double-right" aria-hidden="true"&gt;&lt;/i&gt;
+              &lt;/ul&gt;&lt;/div&gt;
+		  &lt;h1&gt;Financial Services&lt;/h1&gt;
+          		
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End About Banner Section  --&gt;&lt;!-- Start Container Section  --&gt;&lt;section id="" class="section  parent-section"&gt;&lt;div class="container paracon "&gt;
+
+		  
+                
+&lt;!-- Start Body Text Section  --&gt;
+&lt;section class="section body-text"&gt;&lt;div class="container"&gt;
+        &lt;div class="body-text"&gt;
+		  &lt;p&gt;Financial Services Department realizes and understands its purpose being to provide quality business, financial and accounting services to the University to enable it to achieve its ambition of being a leading centre of excellence in Africa and the world; a breeding ground for intellectual and human resource capacity of the nation and the international community.&lt;/p&gt;
+
+&lt;p&gt;This understanding is premised on the following strategic goals:&lt;/p&gt;
+
+&lt;p&gt;Supporting an intellectually stimulating and technologically advanced teaching, learning and research environment through:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Development of a student-centred, efficient and effective customer service driven financial management tool for the benefit of all stakeholders.&lt;/li&gt;
+	&lt;li&gt;The provision of a prudent and proactive management of procurement processes and procedures; and efficient and effective storage of appropriate supplies.&lt;/li&gt;
+	&lt;li&gt;The provision of a prudent and proactive style of financial accounting, planning, and control mechanisms designed to ensure proper management of institutional resources and efficient, effective and quality driven financial reporting on departmental stewardship over resources. &lt;/li&gt;
+	&lt;li&gt;Implementation of a financial management strategy which includes programmes for self-resourcing, cost reduction and cost sharing in order to secure and efficiently manage the financial resources necessary for the University to fulfil the aspirations, objectives and actions of the University’s strategic plan.  &lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Body Text Section  --&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;!-- End Container Section  --&gt;</description>
+  <pubDate>Tue, 09 May 2017 10:35:11 +0000</pubDate>
+    <dc:creator>webadmin</dc:creator>
+    <guid isPermaLink="false">309 at https://www.ub.bw</guid>
+    </item>
+
+  </channel>
+</rss>
